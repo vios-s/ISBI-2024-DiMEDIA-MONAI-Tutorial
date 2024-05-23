@@ -1,0 +1,4 @@
+matplotlib 
+monai 
+monailabel 
+monai-generative
